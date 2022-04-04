@@ -1,0 +1,6 @@
+{
+  "parent": "Item/Generated",
+  "textures": {
+    "layer0": "firstmod:item/p_arm"
+  }
+}
