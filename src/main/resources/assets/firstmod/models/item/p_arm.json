@@ -1,5 +1,5 @@
 {
-  "parent": "Item/Generated",
+  "parent": "item/generated",
   "textures": {
     "layer0": "firstmod:item/p_arm"
   }
