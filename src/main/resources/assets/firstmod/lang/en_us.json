@@ -1,3 +1,6 @@
 {
-  "item.firstmod.p_arm": "Parallel Bar Arm"
+  "item.firstmod.p_arm": "Parallel Bar Arm",
+  "item.firstmod.prong_claw": "Two Prong Claw",
+  "item.firstmod.roll_intake": "Rolling Intake",
+  "item.firstmod.mec_dt": "Mecanum Drivetrain"
 }
