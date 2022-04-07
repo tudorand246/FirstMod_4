@@ -1,6 +1,7 @@
 package com.qcmbrs.firstmod.item;
 
 import com.qcmbrs.firstmod.FirstMod;
+import net.minecraft.world.item.BoatItem;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -24,6 +25,7 @@ public class ModItems
 
     public static final RegistryObject<Item> DT_1 = ITEMS.register("mec_dt",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
 
     public static void register(IEventBus eventBus)
     {
