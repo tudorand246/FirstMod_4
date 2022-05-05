@@ -2,5 +2,10 @@
   "item.firstmod.p_arm": "Parallel Bar Arm",
   "item.firstmod.prong_claw": "Two Prong Claw",
   "item.firstmod.roll_intake": "Rolling Intake",
-  "item.firstmod.mec_dt": "Mecanum Drivetrain"
+  "item.firstmod.mec_dt": "Mecanum Drivetrain",
+  "item.firstmod.tank_dt": "Tank Drivetrain",
+  "item.firstmod.lin_slide": "Linear Slide Arm",
+  "item.firstmod.block_element": "Block Element",
+
+  "itemGroup.firsttab": "FIRST Robotics"
 }

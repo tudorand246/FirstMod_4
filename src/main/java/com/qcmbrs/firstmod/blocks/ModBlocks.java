@@ -20,10 +20,6 @@ public class ModBlocks
     public static final DeferredRegister<Block> BLOCKS =
             DeferredRegister.create(ForgeRegistries.BLOCKS, FirstMod.MOD_ID);
 
-    public static final RegistryObject<Block> B_SHIPHUB = registerBlock("blue_shipping_hub",
-            () -> new HopperBlock(BlockBehaviour.Properties.of(Material.METAL).strength(9f).requiresCorrectToolForDrops()),
-            CreativeModeTab.TAB_MISC);
-
    private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab)
    {
        RegistryObject<T> toReturn = BLOCKS.register(name, block);
